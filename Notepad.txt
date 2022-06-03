@@ -1,0 +1,4 @@
+Git status - Ve os status
+git add . - Informar pro git arquivo para inclusao
+$ git commit -m "" Incluir o arquivo com alguma anotaçao 
+$ git push origin main
